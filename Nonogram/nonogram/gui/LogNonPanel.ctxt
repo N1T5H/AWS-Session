@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LogNonPanel
+comment0.text=\r\n\ The\ type\ Log\ panel\ for\ displaying\ logs\r\n\r\n\ @author\ Niteesh\r\n\ @version\ March\ 2023\r\n
+comment1.params=driver
+comment1.target=LogNonPanel(NonogramGUI)
+comment1.text=\r\n\ Instantiates\ a\ new\ Log\ panel.\r\n\r\n\ @param\ driver\ the\ driver\r\n
+comment2.params=str
+comment2.target=void\ log(java.lang.String)
+comment2.text=\r\n\ log\ method\ to\ log\ things\ in\ the\ panel\r\n\r\n\ @param\ str\ the\ str\r\n
+comment3.params=title\ str
+comment3.target=void\ pop(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Pop.\r\n\r\n\ @param\ title\ the\ title\r\n\ @param\ str\ \ \ the\ str\r\n
+comment4.params=str
+comment4.target=void\ error(java.lang.String)
+comment4.text=\r\n\ Error\ method\ to\ log\ error\ logs\ in\ panel.\r\n\r\n\ @param\ str\ the\ str\r\n
+numComments=5

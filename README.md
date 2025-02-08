@@ -1,3 +1,6 @@
+Incomplete still in progress
+
+
 Deploying a Java Nonogram Game Application on AWS EC2
 
 ## Testing the project locally

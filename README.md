@@ -16,8 +16,7 @@ Welcome to the **Nonogram Puzzle Game**, a logic-based puzzle game built in **Ja
 
 ## 📷 Screenshots
 ### Puzzle Selection
-![Puzzle Selection Screen](Tiny.png)
-![Puzzle Selection Screen](6Non.png)
+![Puzzle Selection Screen](test15.png)
 
 ---
 

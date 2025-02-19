@@ -30,7 +30,7 @@ You can run the game using either the **command line** (recommended for develope
 #### **Option 1: Command-Line (Recommended)**
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/nonogram-game.git
+   git clone https://github.com/N1T5H/Nonogram-Game.git
    cd nonogram-game
    ```
 2. **Compile all Java files:**

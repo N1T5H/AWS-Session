@@ -15,7 +15,8 @@ Welcome to the **Nonogram Puzzle Game**, a logic-based puzzle game built in **Ja
 ---
 
 ## 📷 Screenshots
-*(Include screenshots of the game in action here!)*
+### Puzzle Selection
+![Puzzle Selection Screen](Tiny.png)
 
 ---
 
@@ -97,9 +98,6 @@ Want to improve the game? Feel free to contribute!
 This project is licensed under the **MIT License**. See `LICENSE` for more details.
 
 ---
-
-## ⭐ Acknowledgments
-Special thanks to **Dr. Mark C. Sinclair** for the original concept and inspiration.
 
 🚀 Happy puzzling! 🧩
 

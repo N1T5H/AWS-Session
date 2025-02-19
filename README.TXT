@@ -44,7 +44,8 @@ You can run the game using either the **command line** (recommended for develope
 #### **Option 2: Using BlueJ**
 1. Open **BlueJ**.
 2. Open this project folder (`nonogram-game/`).
-3. Right-click `NonogramGUI` and select **Run Main Method**.
+3. Locate `NonogramGUI.java`.
+4. Right-click `NonogramGUI` and select **Run Main Method**.
 
 ---
 
